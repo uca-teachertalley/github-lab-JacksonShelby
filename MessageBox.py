@@ -1,3 +1,4 @@
+# William (Jackson) Shelby
 DEFAULT_SIZE = 10
 
 
